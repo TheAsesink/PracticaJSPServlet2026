@@ -5,7 +5,7 @@ Esta es una aplicación web dinámica desarrollada utilizando JSP y Servlets en 
 
 ## 🎓 Información Académica
 * **Universidad:** Universidad Técnica Estatal de Quevedo (UTEQ).
-* **Facultad:** Facultad de Ciencias de la Ingeniería.
+* **Facultad:** Facultad de Ciencias de la Computación.
 * **Carrera:** Carrera de Software.
 * **Asignatura:** Aplicaciones Web.
 * **Docente:** Guerrero Ulloa Gleiston Cicerón.
